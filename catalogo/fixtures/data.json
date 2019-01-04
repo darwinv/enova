@@ -1,0 +1,609 @@
+[
+
+  {
+    "model":"catalogo.brand",
+    "pk":10,
+    "fields":{
+      "name":"marca 0"
+    }
+  },
+{
+  "model":"catalogo.brand",
+  "pk":11,
+  "fields":{
+    "name":"marca 1"
+  }
+},
+{
+  "model":"catalogo.brand",
+  "pk":12,
+  "fields":{
+    "name":"marca 2"
+  }
+},
+
+  {
+    "model":"catalogo.product",
+    "pk":852,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 1,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+
+  {
+    "model":"catalogo.product",
+    "pk":853,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Tripode Primaveral",
+        "description": "<p>Arreglo floral con flores primaverales en tr&iacute;pode de madera</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 2,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":854,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Tripode Primaveral",
+        "description": "<p>Arreglo floral con flores primaverales en tr&iacute;pode de madera</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 3,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":855,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 4,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":856,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 5,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":857,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 6,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":858,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 7,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":859,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 11,
+        "code": 8,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":860,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 9,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":861,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 10,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":862,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 11,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":863,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 12,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":864,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 13,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":865,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 14,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":866,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 15,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":867,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 16,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":868,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 17,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":869,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 18,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+  {
+    "model":"catalogo.product",
+    "pk":870,
+    "fields":
+      {
+        "created": "2018-01-04 16:32",
+        "modified": "2018-02-15 15:07",
+        "is_active": true,
+        "type_product": "PR",
+        "name": "Amanecer Tulipanes",
+        "description": "<p>Arreglo floral con 10 tulipanes, claveles y complementos en canasta mimbre</p>",
+        "is_variation": false,
+        "brand": 10,
+        "code": 19,
+        "is_complement": false,
+        "is_deleted": false
+      }
+  },
+
+
+  {
+    "model":"catalogo.productdetail",
+    "pk":1,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":340,
+        "product":852
+      }
+  },
+
+  {
+    "model":"catalogo.productdetail",
+    "pk":2,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":103,
+        "product":853
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":3,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":65,
+        "product":854
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":4,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":77,
+        "product":855
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":5,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":76,
+        "product":856
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":6,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":83,
+        "product":857
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":7,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":111,
+        "product":858
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":8,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":112,
+        "product":859,
+        "price_offer":150,
+        "offer_day_from":"2018-2-15 17:22",
+        "offer_day_to":"2018-2-25 17:21"
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":9,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":113,
+        "product":860,
+        "price_offer":145,
+        "offer_day_from":"2018-02-15 17:22",
+        "offer_day_to":"2018-02-26 17:21"
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":10,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":101,
+        "product":861
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":11,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":146,
+        "product":862
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":12,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":148,
+        "product":863
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":13,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":166,
+        "product":864
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":14,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":172,
+        "product":865
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":15,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":179,
+        "product":866
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":16,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":181,
+        "product":867
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":17,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":190,
+        "product":868,
+        "price_offer":130,
+        "offer_day_from":"2018-02-15 17:22",
+        "offer_day_to":"2018-02-25 17:21"
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":18,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":195,
+        "product":869
+      }
+  },
+  {
+    "model":"catalogo.productdetail",
+    "pk":19,
+    "fields":
+      {
+        "is_visible": true,
+        "price":170,
+        "quantity":8,
+        "sku":199,
+        "product":870
+      }
+  }
+
+]
