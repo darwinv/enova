@@ -1,5 +1,20 @@
 [
-
+  {
+    "model": "oauth2_provider.application",
+    "pk": 1,
+    "fields": {
+      "client_id": "K1WBnpF9a8RozklxAXkiHOUPAXZYIWdlYrL6Np3d",
+      "user": 1,
+      "redirect_uris": "",
+      "client_type": "public",
+      "authorization_grant_type": "password",
+      "client_secret": "ZgXZu9cwBBaREMIUKE4fFxAFp0DcVY9Zhc77OgURjscoEL8sJuC33uqQ3IHmgX78sGfy1tR6vMaov7Bp1gVfHYEDQLgU1JGZ8zSrsGL4ePIhlJLw8HPmIHOcVk3Y45Cw",
+      "name": "cliente_enova",
+      "skip_authorization": false,
+      "created": "2019-01-04 17:24:34.857936-05",
+      "updated": "2019-01-04 17:24:34.857936-05"
+    }
+  },
   {
     "model":"catalogo.brand",
     "pk":10,
