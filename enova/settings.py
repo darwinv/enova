@@ -150,5 +150,4 @@ STATIC_URL = '/static/'
 
 AUTHENTICATION_BACKENDS = (
     'oauth2_provider.backends.OAuth2Backend',
-    'master_password.auth.ModelBackend'
 )
