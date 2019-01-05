@@ -1,1 +1,1 @@
-web: gunicorn enova.wsgi --log-file-
+web: gunicorn enova.wsgi --log-file -
