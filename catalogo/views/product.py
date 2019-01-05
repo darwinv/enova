@@ -16,6 +16,7 @@ class ProductListView(ListCreateAPIView):
     """Listar Productos."""
     authentication_classes = (OAuth2Authentication,)
     permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+    queryset = Product.objects.filter(is_deleted=False).order_by("-id")
 
     def list(self, request):
         """Listar Productos"""
