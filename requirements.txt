@@ -7,3 +7,6 @@ requests==2.18.4
 urllib3==1.22
 django-filter==1.0.2
 psycopg2==2.7.4
+dj-database-url
+gunicorn
+whitenoise==3.3.1

@@ -21,6 +21,7 @@ class ProductListView(ListCreateAPIView):
         """Listar Productos"""
         products = Product.objects.filter(is_deleted=False).order_by("-id")
         # paginacion
+
         page = self.paginate_queryset(products)
         if page is not None:
             serializer = ProductSerializer(products, many=True)
