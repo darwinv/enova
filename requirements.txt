@@ -1,5 +1,5 @@
 chardet==3.0.4
-Django==1.11.4
+Django==1.11.29
 django-oauth-toolkit==1.0.0
 djangorestframework==3.6.4
 oauthlib==2.0.2
